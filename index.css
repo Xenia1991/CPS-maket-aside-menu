@@ -98,8 +98,8 @@ body {
     border-bottom-right-radius: 4px;
 }
 
-.menu-list__item:active,
-.menu-list__item:hover {
+.menu-list__link:active,
+.menu-list__link:hover {
     filter: opacity(60%);
 }
 
