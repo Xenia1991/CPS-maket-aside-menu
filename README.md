@@ -1,1 +1,1 @@
-# CPS-maket-aside-menu
+# CPS-maket-sidebar-menu
